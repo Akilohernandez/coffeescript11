@@ -1,0 +1,13 @@
+speed 10
+dot yellow, 160
+jumpto -28,24
+dot black, 20
+jumpto 27, 25
+dot red, 20
+jumpto -32, -25
+pen black, 8
+rt 150
+pen purple, 10
+lt 125, 35
+jumpto 100, 100
+ht
