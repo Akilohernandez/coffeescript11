@@ -1,0 +1,16 @@
+speed 5
+pen purple, 4
+fd 45
+lt 90
+fd 10
+rt 120
+fd 120
+rt 120
+fd 120
+rt 120
+fd 10
+lt 90
+fd 45
+rt 90
+fd 90
+rt 90
