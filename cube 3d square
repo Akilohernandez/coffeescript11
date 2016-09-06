@@ -1,0 +1,65 @@
+speed 50
+pen black, 10
+fd 200
+rt 90
+fd 200
+rt 90
+fd 200
+rt 90
+fd 200
+pu()
+moveto -75, 153
+pen black, 10
+rt 90
+rt 90
+fd 200
+rt 90
+fd 200
+rt 90 
+fd 200
+rt 90 
+fd 200
+moveto 0, 198
+moveto 203, 199
+moveto 124, 151
+moveto 128, -50
+moveto 203, -2
+moveto 1, -1
+moveto -72, -49
+pu()
+pen black, 10
+fd 200
+rt 90
+fd 200
+rt 90
+fd 200
+rt 90
+fd 200
+home()
+jumpto -276, 125
+pen black, 10
+fd 600
+rt 90
+fd 600
+rt 90
+fd 600
+rt 90
+fd 600
+pen black, 10
+rt 90
+rt 90
+fd 600
+rt 90
+fd 600
+rt 90 
+fd 600
+rt 90 
+fd 600
+pen black, 10
+fd 600
+rt 90
+fd 600
+rt 90
+fd 600
+rt 90
+fd 600
