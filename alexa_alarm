@@ -1,0 +1,16 @@
+Day = 'Monday'
+play 'c G/G/ AG [FAC]4[FAD]4  tempo: 160
+  song: """
+    D/E/E/D/EE/D/EED/E/E/D/|
+    EE/D/E/D/EAGGB,/D/|
+    E/ED/EZEEEZ|
+    D/D/DDA,/B,/A,/G,/E,/E,Z/B,/D/|
+    G2F2E2D2|EEZ6|
+    G2F2E2D2|EEZ6|'
+say 'Good Morning! Its time to wake up'
+if Day is 'Monday'
+  say 'You have to go to school today'
+else
+  say 'Good bye'
+  
+
